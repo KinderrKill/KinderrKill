@@ -7,7 +7,7 @@
 
 - 🔭 Je travail depuis 10 ans sur [Company Of Cube](https://companyofcube.fr/)
 
-- 🌱 J'aime partager mes connaissances sur [Youtube]([https://companyofcube.fr/](https://www.youtube.com/channel/UCzzeZfPXqh18DFtI2ml0DVg))
+- 🌱 J'aime partager mes connaissances sur [Youtube](https://www.youtube.com/channel/UCzzeZfPXqh18DFtI2ml0DVg)
 
 - 👯 J'ai travaillé sur le projet [Kiddo](https://kiddo-front-la-passerelle.netlify.app/)
 
