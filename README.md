@@ -1,6 +1,6 @@
 <h3 align="center">Concepteur développeur d'application web et papa passionné par la technologie</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kinderrkill&label=Profile%20views&color=0e75b6&style=flat" alt="kinderrkill" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kinderrkill&label=Visiteurs&color=0e75b6&style=flat" alt="kinderrkill" /> </p>
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=kinderrkill&show_icons=true&locale=en" alt="kinderrkill" /></p>
